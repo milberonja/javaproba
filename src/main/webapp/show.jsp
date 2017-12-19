@@ -7,6 +7,6 @@
 <title>Show Page</title>
 </head>
 <body>
-This simple java maven project is working.
+This simple java maven project is working. Ovo je proba promene sadrzaja na projektu.
 </body>
 </html>
